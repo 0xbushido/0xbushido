@@ -1,7 +1,7 @@
-- 👋 Hi, I’m 0xbushido
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on code
+- 👋 Hi, I’m Bushido San
+- 👀 I’m interested in tech stuff
+- 🌱 I’m currently learning a lot of tech stuff
+- 💞️ I’m looking to collaborate on tech stuff
 
 <!---
 0xbushido/0xbushido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
