@@ -8,8 +8,8 @@ If you like my work, feel free to support me via donations:
 
 | Crypto Chain        | Wallet Address                                 |
 |---------------------|------------------------------------------------|
+| Ethereum / Base / Polygon| 0x9E8A7035790bae78DBC0E54B69e0573C0EC453c4   |
 | Bitcoin             | bc1q0jcyus97d2zskge0tqyfrvq8rkeuxhm926v7vt   |
-| Ethereum or EVM     | 0x9E8A7035790bae78DBC0E54B69e0573C0EC453c4   |
 | Solana              | 6Xs9uA7w9JuPAYK1C87TUfEwYdQc2GdRWkgNB5EbLVZo |
 
 ## 🛠 Skills
